@@ -28,7 +28,7 @@ sns.catplot(x="day", y="total_bill", hue="sex", kind='violin', data=tips, split=
 
 
 
-    <seaborn.axisgrid.FacetGrid at 0x7fcae6163be0>
+
 
 
 
@@ -36,7 +36,7 @@ sns.catplot(x="day", y="total_bill", hue="sex", kind='violin', data=tips, split=
 
 
     
-[Violinplots.png](Violinplots.png)
+![](/portfolio/Violinplots.png)
     
 
 
