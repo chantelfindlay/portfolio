@@ -51,7 +51,7 @@ df[:10]
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -154,7 +154,7 @@ sm.stats.anova_lm(model, typ=2)
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
