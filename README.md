@@ -6,6 +6,8 @@ Here I show you how to [add color to markdown cells](Adding_color_to_markdown.md
 
 Here I show you how to [create a Two-Way ANOVA table](ANOVA_table.md) using exemplary data. 
 
+Here I show you how to [create a violin plot](Violin_plots.md) using a pre-made dataset. 
+
 Have any questions? Feel free to contact me at:
 [ch560775@dal.ca](mailto:ch560775@dal.ca)
 
