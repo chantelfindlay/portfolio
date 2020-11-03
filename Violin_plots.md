@@ -36,7 +36,7 @@ sns.catplot(x="day", y="total_bill", hue="sex", kind='violin', data=tips, split=
 
 
     
-![alt](/portfolio/blob/main/Violinplots.png)
+<img width = "300" alt = 'violinplots' src = 'Violinplots.png'>
 
 
 
