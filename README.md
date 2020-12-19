@@ -12,9 +12,8 @@ Welcome Everyone! My name is Chantel Findlay and I am currently a fourth year Ho
 ## Statistical Analysis:
   * Here I show you how to [create a Two-Way ANOVA table](ANOVA_table.md) using exemplary data. 
 
-## Working with EEG Data:
-  * Grand Averages 
-  * Topographic Maps
+## Working with MRI Data:
+  * Here I show you how to [apply a mask onto an MRI scan](MRI_scan.md).
 
 ## Little Bit of Fun:
   * Here I show you how to [add color to markdown cells](Adding_color_to_markdown.md).
