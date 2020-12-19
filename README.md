@@ -7,8 +7,7 @@ Welcome Everyone! My name is Chantel Findlay and I am currently a fourth year Ho
   * Here I show you multiple ways you can [clean raw data](). 
 
 ## Data Visulaization: 
-  * Here I show you how to [create a violin plot](Violin_plots.md) using a pre-made dataset using matplotlib.pyplot. 
-  * Here I show you how to [create a boxplot] using seaborne(). 
+  * Here I show you how to [create a violin plot](Violin_plots.md) using a pre-made dataset using seaborn.  
 
 ## Statistical Analysis:
   * Here I show you how to [create a Two-Way ANOVA table](ANOVA_table.md) using exemplary data. 
