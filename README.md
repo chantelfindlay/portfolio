@@ -25,7 +25,7 @@ Welcome Everyone! My name is Chantel Findlay and I am currently a fourth year Ho
 
 
 
-[Have any questions? Feel free to contact me at:
-[ch560775@dal.ca](mailto:ch560775@dal.ca)]
+Have any questions? Feel free to contact me at:
+[ch560775@dal.ca](mailto:ch560775@dal.ca)
 
 **Thanks for stopping by!**
