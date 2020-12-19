@@ -29,7 +29,7 @@ plt.show()
 
 
     
-![png](MRI_mask_files/MRI_mask_6_0.png)
+<img width = '500' alt = 'MRI_scan' src = 'MRI_scan.png'>
     
 
 
@@ -48,7 +48,7 @@ plt.show()
 
 
     
-![png](MRI_mask_files/MRI_mask_8_0.png)
+<img width = '500' alt = 'MRI_mask' src = 'MRI_mask.png'>
     
 
 
