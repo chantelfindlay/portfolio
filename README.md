@@ -1,4 +1,4 @@
-# Chantel Findlay's Portfolio <img width = '500' alt = 'me' src = 'CTEM8421.jpeg'>
+# Chantel Findlay's Portfolio <img width = '100' alt = 'me' src = 'CTEM8421.jpeg'>
 
 Welcome Everyone! My name is Chantel Findlay and I am currently a fourth year Honours Neuroscience Student at Dalhousie University. For my Neural Data Science class I have created a professional portfolio to showcase notable work that I have completed. 
 
