@@ -36,7 +36,7 @@ plt.show()
 
 
     
-![png](Histogram_files/Histogram_6_0.png)
+<img width = '500' alt = 'Hist1' src = 'Hist 1.png'>
     
 
 
@@ -55,8 +55,8 @@ plt.show()
 
 
 
-    
-![png](Histogram_files/Histogram_8_0.png)
+
+<img width = '500' alt = 'Hist2' src = 'Hist 2.png'>
     
 
 
