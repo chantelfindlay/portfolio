@@ -10,7 +10,7 @@ Welcome Everyone! My name is Chantel Findlay and I am currently a fourth year Ho
   * Here I show you how to [create a violin plot](Violin_plots.md) using a pre-made dataset using seaborn.  
 
 ## Statistical Analysis:
-  * Here I show you how to [create a Two-Way ANOVA table](ANOVA_table.md) using exemplary data. 
+  * Here I show you how to [create a Two-Way ANOVA table](ANOVA_tables.md) using exemplary data. 
 
 ## Working with MRI Data:
   * Here I show you how to [apply a mask onto an MRI scan](MRI_mask.md).
