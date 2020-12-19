@@ -22,7 +22,9 @@ Welcome Everyone! My name is Chantel Findlay and I am currently a fourth year Ho
   * Here I show you how to [make a table in markdown]().
 
 
-Have any questions? Feel free to contact me at:
-[ch560775@dal.ca](mailto:ch560775@dal.ca)
 
-Thanks for stopping by! 
+
+[Have any questions? Feel free to contact me at:
+[ch560775@dal.ca](mailto:ch560775@dal.ca)]
+
+**Thanks for stopping by!**
