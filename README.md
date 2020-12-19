@@ -20,7 +20,7 @@ Welcome Everyone! My name is Chantel Findlay and I am currently a fourth year Ho
 
 ## Little Bit of Fun:
   * Here I show you how to [add color to markdown cells](Adding_color_to_markdown.md).
-  * Here I show you how to [make a table in markdown]().
+  * Here I show you how to [make a table in markdown](Table in markdown.md).
 
 
 
