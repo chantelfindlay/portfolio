@@ -4,7 +4,7 @@ Welcome Everyone! My name is Chantel Findlay and I am currently a fourth year Ho
 
 ## Data Analysis:
   * Here I show you how to [read in multiple files of raw data](Reading_in_data.md). 
-  * Here I show you how to [separate columns of interest]() in a dataframe.
+  * Here I show you how to [separate columns of interest](Groupby.md) in a dataframe.
 
 ## Data Visulaization:
   * Here I show you how to [create a histogram](Histogram.md) using matplotlib.pyplot.
