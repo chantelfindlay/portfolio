@@ -36,7 +36,7 @@ plt.show()
 
 
     
-<img width = '500' alt = 'Hist1' src = 'Hist 1.png'>
+<img width = '500' alt = 'Hist 1' src = 'Hist 1.png'>
     
 
 
