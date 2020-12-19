@@ -3,7 +3,7 @@
 Welcome Everyone! My name is Chantel Findlay and I am currently a fourth year Honours Neuroscience Student at Dalhousie University. For my Neural Data Science class I have created a professional portfolio to showcase notable work that I have completed. 
 
 ## Data Analysis:
-  * Here I show you how to [read in multiple files of raw data](Reading_in_Data.md). 
+  * Here I show you how to [read in multiple files of raw data](Reading_in_data.md). 
   * Here I show you how to [separate columns of interest]() in a dataframe.
 
 ## Data Visulaization:
