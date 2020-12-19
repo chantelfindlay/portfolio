@@ -2,6 +2,8 @@ In both Project 1 and 2 my groups used tables like the one below to organize the
 
 Here is the raw data for creating a table in markdown. The table I created is Holiday and Date: 
 
+<img width = '500' alt = 'Table in markdown' src = 'Table in markdown.png'>
+
 And once placed in markdown, this is what the table looks like!
 
 | <strong> Holiday </strong>     | <strong> Date </strong> |
